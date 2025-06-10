@@ -46,9 +46,6 @@ Edit
 
 ## ⚙️ Setup Instructions
 
-### 1. Clone the Repo
-
-```bash
 git clone https://github.com/BhushanBagul15/ai-agent.git
 cd ai-agent
 
@@ -66,3 +63,5 @@ python main.py
 
 
 You can test with a sample audio file like harvard.wav
+
+Output will be stored in output.wav 
